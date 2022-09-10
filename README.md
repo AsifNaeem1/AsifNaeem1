@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AsifNaeem1
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning business managment
+- 👀 I’v 5 years of experience in game development
 - 💞️ I’m looking to collaborate on multiplayer games
 - 📫 You can reach me by email asifnaeem1@outlook.com
 
